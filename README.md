@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello there, welcome to my Github page
+BIO
+----------------------------------------------------------------------------
+- 📚 I’m student of master degree in VUT Brno
+- 🌱 Current specialisation: Applied Computer Science and Control
+- 🧑‍🎓 Completed bachelors degree in Fundamentals of Mechanical Engineering
+----------------------------------------------------------------------------
 
-<!--
-**j-fiala/j-fiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+----------------------------------------------------------------------------
+💻Programming Language: C++, Matlab, Python
 
-Here are some ideas to get you started:
+🟩3D software:  CATIA V5, Autodesk Inventor, SOLIDWORKS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟦Other software: B&R Automation Studio
+
+Arduino and drones enjoyer.
+
+Feel free to DM me 😄
