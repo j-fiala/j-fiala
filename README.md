@@ -2,7 +2,7 @@ Hello there, welcome to my Github page
 ----------------------------------------------------------------------------
 BIO
 ----------------------------------------------------------------------------
-- 📚 I’m student of master degree in VUT Brno
+- 📚 I’m student of master degree in FME VUT Brno
 - 🌱 Current specialisation: Applied Computer Science and Control
 - 🧑‍🎓 Completed bachelors degree in Fundamentals of Mechanical Engineering
 ----------------------------------------------------------------------------
